@@ -1,3 +1,4 @@
 /BotUI
 /venv
 /.idea
+.env
